@@ -10,7 +10,7 @@ A fivem script (ESX/QB) to stop modders from having to much money.
 
 # Instalation
 ```
-1) Download the "antimoney" resource
-2) Drag the "antimoney" into your resources (rename resource if you wish)
-3) Start "antimoney"
+1) Download the "FiveM-Antimoney" resource
+2) Drag the "FiveM-Antimoney" into your resources (rename resource if you wish)
+3) Start "FiveM-Antimoney"
 ```
