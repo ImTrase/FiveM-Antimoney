@@ -1,10 +1,10 @@
-# esx_antimoney
-A fivem script (ESX) to stop modders from having to much money.
+# Antimoney
+A fivem script (ESX/QB) to stop modders from having to much money.
 
 # Features
 - Fully server-sided (modders can't stop the resource)
 - Webhooks
-- Checks all ESX accounts (money, bank, and black_money)
+- Checks all ESX/QB accounts (money, bank, and black_money)
 - Easy config
 - Set the cap amount easily for each account.
 
